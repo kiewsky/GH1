@@ -2,3 +2,4 @@ FileA
 FileB
 FileC
 FileD
+FileE
