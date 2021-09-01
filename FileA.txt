@@ -1,1 +1,4 @@
 FileA
+FileB
+FileC
+FileD
